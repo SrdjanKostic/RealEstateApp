@@ -14,6 +14,7 @@
           "MediatR": "12.1.1",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "RealEstateApp.Contracts": "1.0.0",
+          "RealEstateApp.Users": "1.0.0",
           "SqlKata": "2.4.0",
           "SqlKata.Execution": "2.4.0"
         },
@@ -628,6 +629,24 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "RealEstateApp.Users/1.0.0": {
+        "dependencies": {
+          "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.2",
+          "Dapper": "2.0.123",
+          "Isopoh.Cryptography.Argon2": "2.0.0",
+          "MediatR": "12.1.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
+          "RealEstateApp.Contracts": "1.0.0",
+          "SqlKata": "2.4.0",
+          "SqlKata.Execution": "2.4.0"
+        },
+        "runtime": {
+          "RealEstateApp.Users.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1100,6 +1119,11 @@
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
     "RealEstateApp.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealEstateApp.Users/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

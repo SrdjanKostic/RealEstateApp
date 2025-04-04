@@ -28,3 +28,6 @@ C:\Users\Ansys\Desktop\RealEstateApp-main\RealEstateApp.Workspaces\obj\Debug\net
 C:\Users\Ansys\Desktop\RealEstateApp-main\RealEstateApp.Workspaces\obj\Debug\net8.0\ref\RealEstateApp.Workspaces.dll
 C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp.Workspaces\bin\Debug\net8.0\RealEstateApp.Contracts.dll
 C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp.Workspaces\bin\Debug\net8.0\RealEstateApp.Contracts.pdb
+C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp.Workspaces\bin\Debug\net8.0\RealEstateApp.Users.dll
+C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp.Workspaces\bin\Debug\net8.0\RealEstateApp.Users.pdb
+C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp.Workspaces\obj\Debug\net8.0\RealEstateApp.Workspaces.sourcelink.json

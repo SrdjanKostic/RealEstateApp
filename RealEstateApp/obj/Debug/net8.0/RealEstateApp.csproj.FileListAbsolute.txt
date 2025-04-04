@@ -162,3 +162,4 @@ C:\Users\Ansys\Desktop\RealEstateApp-main\RealEstateApp\obj\Debug\net8.0\RealEst
 C:\Users\Ansys\Desktop\RealEstateApp-main\RealEstateApp\obj\Debug\net8.0\ref\RealEstateApp.dll
 C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp\bin\Debug\net8.0\RealEstateApp.Contracts.dll
 C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp\bin\Debug\net8.0\RealEstateApp.Contracts.pdb
+C:\Users\Ansys\Desktop\RealEstateApp\RealEstateApp\obj\Debug\net8.0\RealEstateApp.sourcelink.json

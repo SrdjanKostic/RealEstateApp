@@ -741,6 +741,7 @@
           "MediatR": "12.1.1",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "RealEstateApp.Contracts": "1.0.0",
+          "RealEstateApp.Users": "1.0.0",
           "SqlKata": "2.4.0",
           "SqlKata.Execution": "2.4.0"
         },
