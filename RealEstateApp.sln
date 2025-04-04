@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp", "RealEstateApp\RealEstateApp.csproj", "{2EC6B0CB-A4AE-4002-A534-E1A0C5E3A5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Authentication", "RealEstateApp.Authentication\RealEstateApp.Authentication.csproj", "{65A46785-0B41-47F7-88B8-2FD31F357745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Workspaces", "RealEstateApp.Workspaces\RealEstateApp.Workspaces.csproj", "{135531E1-7E3E-4BBA-847D-24E8C6F03566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Authorization", "RealEstateApp.Authorization\RealEstateApp.Authorization.csproj", "{D17B5C32-5EA3-4DE8-8C2C-5997DBAD938C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Users", "RealEstateApp.Users\RealEstateApp.Users.csproj", "{DF0E8604-756C-46E8-A291-B133736990EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Contracts", "RealEstateApp.Contracts\RealEstateApp.Contracts.csproj", "{D70821D4-41CC-4785-950B-E17C2B7A58DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC6B0CB-A4AE-4002-A534-E1A0C5E3A5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC6B0CB-A4AE-4002-A534-E1A0C5E3A5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC6B0CB-A4AE-4002-A534-E1A0C5E3A5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC6B0CB-A4AE-4002-A534-E1A0C5E3A5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A46785-0B41-47F7-88B8-2FD31F357745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A46785-0B41-47F7-88B8-2FD31F357745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A46785-0B41-47F7-88B8-2FD31F357745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A46785-0B41-47F7-88B8-2FD31F357745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135531E1-7E3E-4BBA-847D-24E8C6F03566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135531E1-7E3E-4BBA-847D-24E8C6F03566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135531E1-7E3E-4BBA-847D-24E8C6F03566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135531E1-7E3E-4BBA-847D-24E8C6F03566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17B5C32-5EA3-4DE8-8C2C-5997DBAD938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17B5C32-5EA3-4DE8-8C2C-5997DBAD938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17B5C32-5EA3-4DE8-8C2C-5997DBAD938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17B5C32-5EA3-4DE8-8C2C-5997DBAD938C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0E8604-756C-46E8-A291-B133736990EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E8604-756C-46E8-A291-B133736990EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0E8604-756C-46E8-A291-B133736990EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0E8604-756C-46E8-A291-B133736990EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70821D4-41CC-4785-950B-E17C2B7A58DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70821D4-41CC-4785-950B-E17C2B7A58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70821D4-41CC-4785-950B-E17C2B7A58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70821D4-41CC-4785-950B-E17C2B7A58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD44344-2F74-4053-A668-160E2BEC1296}
+	EndGlobalSection
+EndGlobal

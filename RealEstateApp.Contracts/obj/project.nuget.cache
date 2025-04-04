@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hONj3v7ytHk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ansys\\Desktop\\RealEstateApp\\RealEstateApp.Contracts\\RealEstateApp.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ansys\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Ansys\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ansys\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
